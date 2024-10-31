@@ -78,6 +78,10 @@ $pip3 install -r requirements.txt
 Run Game:
 $python3 runner.py
 
+## Demo Video:
+Check out a [demo video](https://drive.google.com/file/d/1BrCxhZG2SzfQexBPm1YNNGIAF1uGAMcy/view?usp=sharing) to see the Minesweeper AI in action!
+
+
 
 ## Further Ideas:
 
