@@ -82,4 +82,4 @@ $python3 runner.py
 ## Further Ideas:
 
 * Adding the option to choose the size of minefield grid and number of mines up to some reasonable limits.
-* An option to give the AI knowledge of the number of mines in the grid, which would let it start with a knowledge base of {all grid cells} = number of mines, which would allow additional inferences to be made during play. It would also allow the AI to automatically mark all remaining cells as safe once all mines have been found.
+* AI make inferences based on First-order logic which could make it become more powerful than now.
